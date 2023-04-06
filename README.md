@@ -1,4 +1,6 @@
-# Social-Site                   TEAM PROJECT WORK
+                                                        Social Media Website
+  
+TEAM PROJECT WORK- DIGi Chat
 TEAM NAME:-       Team 5
 1. Deepali Choudhary
 2. Bansidhar Pankaj
